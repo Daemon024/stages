@@ -428,9 +428,13 @@ EPSI
 ====
 
 http://www.epsi.fr/
+
 « Imaginez le monde numérique de demain »
+
 École informatique multi campus (Amiens, Arras, Bordeaux, Grenoble, Lille, Lyon, Montpellier, Nantes, Paris).
+
 Formation BTS -> Bachelor (Niveau II) -> Master informatique (Niveau I RNCP)
+
 Stages de 2 à 6 mois, du niveau bac au niveau bac+5 / 3 dernières années en alternance (90% des élèves)
 
 http://www.epsi.fr/Entreprise/Recruter
